@@ -1,1 +1,1 @@
-document1
+file was changed
